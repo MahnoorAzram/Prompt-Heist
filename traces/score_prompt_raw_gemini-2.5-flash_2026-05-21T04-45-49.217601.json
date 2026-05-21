@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 0,\n  \"specificity\": 0,\n  \"feasibility\": 0,\n  \"creativity\": 0,\n  \"total\": 0,\n  \"grade\": \"CRITICAL\",\n  \"feedback\": \"The provided orders are completely meaningless and offer no actionable instructions for the team.\",\n  \"team_action\": \"The team stands idle and confused, exchanging glances as time slips away. No one moves, unsure of what 'dummy' implies in a high-stakes heist.\",\n  \"team_caught\": \"KHATTAK SAHAB\",\n  \"vault_delta\": 0,\n  \"police_alert_delta\": 2\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 634,
+    "candidatesTokenCount": 151,
+    "totalTokenCount": 1173,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 634
+      }
+    ],
+    "thoughtsTokenCount": 388,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "fo4OavalJ4yCxN8PuunIgQg"
+}

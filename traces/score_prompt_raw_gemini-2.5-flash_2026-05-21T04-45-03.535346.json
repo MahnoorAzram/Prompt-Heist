@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 5,\n  \"specificity\": 0,\n  \"feasibility\": 5,\n  \"creativity\": 0,\n  \"total\": 10,\n  \"grade\": \"CRITICAL\",\n  \"feedback\": \"The command completely lacks any specificity, leaving the team confused and unable to act.\",\n  \"team_action\": \"The agents stand frozen in confusion, looking at each other for clarification as precious time slips away without any progress.\",\n  \"team_caught\": \"Nairobi\",\n  \"vault_delta\": 0,\n  \"police_alert_delta\": 1\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 636,
+    "candidatesTokenCount": 140,
+    "totalTokenCount": 2380,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 636
+      }
+    ],
+    "thoughtsTokenCount": 1604,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "So4OauWFNMWp28oP_aaakQg"
+}

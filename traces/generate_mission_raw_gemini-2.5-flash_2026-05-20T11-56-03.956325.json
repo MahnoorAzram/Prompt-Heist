@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION SILENT ECLIPSE\",\n  \"target\": \"The Caduceus Archives, a heavily fortified digital repository housing encrypted corporate secrets for the powerful Solstice Conglomerate.\",\n  \"location_flavor\": \"Midnight, under a rare, almost total lunar eclipse, granting a tight 20-minute window of reduced satellite surveillance.\",\n  \"antagonist_move\": \"Inspector Vega has increased her cyber-surveillance teams, anticipating our next move will target digital assets.\",\n  \"briefing_text\": \"Your last flawless extraction from the museum has only sharpened Vega's focus. We've traced a vital data fragment to the Caduceus Archives, a fortress of pure information. This isn't about physical theft; it's about ghosting through networks and leaving no trace. Fail, and not only does our entire operation unravel, but the data itself could become a weapon against us.\",\n  \"mission_hook\": \"The target vault is air-gapped, requiring a physical injection of malware directly into its core server rack.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 233,
+    "candidatesTokenCount": 228,
+    "totalTokenCount": 892,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 233
+      }
+    ],
+    "thoughtsTokenCount": 431,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "06ENatTuJ4H1kdUPjs6lkQU"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION GHOST ECHO\",\n  \"target\": \"Our inaugural target is the impenetrable Elysium Data Vault, a digital fortress guarding the cryptographic keys to the city's entire energy grid.\",\n  \"location_flavor\": \"Set during the city's annual 'Hour of Silence' at dusk, we have a critical 17-minute window when automated security protocols briefly dip, coinciding with the city-wide power fluctuation.\",\n  \"antagonist_move\": \"Inspector Vega has just activated a new 'Blackout Protocol' across the district, randomly re-routing surveillance camera feeds every few minutes.\",\n  \"briefing_text\": \"The city hums with the illusion of impenetrable security, its citizens oblivious to the digital threads that weave their lives together. Tonight, we're not just stealing data; we're establishing our presence, a whisper in the silent corners of their hyper-connected world. Your meticulous planning is paramount, as the entire city's infrastructure is a delicate ecosystem we're about to subtly, yet profoundly, disrupt. This first move is a declaration; ensure it's heard.\",\n  \"mission_hook\": \"The vault's primary defenses are psychological, designed to overwhelm planners with a cascade of false security data and decoy network architecture.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 272,
+    "totalTokenCount": 1017,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 528,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "vZQNap_-N6eIxN8P6ePrwQY"
+}

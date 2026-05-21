@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 10,\n  \"specificity\": 15,\n  \"feasibility\": 15,\n  \"creativity\": 5,\n  \"total\": 45,\n  \"grade\": \"PARTIAL\",\n  \"feedback\": \"The command for Khattab is misassigned, causing a critical role conflict and making execution confusing for the team.\",\n  \"team_action\": \"Pinky proceeds to override the vault's biometric lock as Khokaar initiates a wide-band jam on police frequencies. Kardar begins herding the hostages towards the second floor, but Khattab, confused by the conflicting orders regarding their role and location, remains on the ground floor, creating a critical gap in the plan.\",\n  \"team_caught\": null,\n  \"vault_delta\": 15,\n  \"police_alert_delta\": 1\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 670,
+    "candidatesTokenCount": 192,
+    "totalTokenCount": 4003,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 670
+      }
+    ],
+    "thoughtsTokenCount": 3141,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "4I8OavaEA72nnsEPzYDS0Ak"
+}

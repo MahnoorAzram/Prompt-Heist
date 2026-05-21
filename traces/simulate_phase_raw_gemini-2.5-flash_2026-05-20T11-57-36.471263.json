@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"Khokaar, struggling with the vault's biometric scanner, accidentally triggers a hidden proximity sensor, locking down the corridor. Emergency shutters crash down, trapping him within the newly sealed section just outside the vault chamber. Panic spreads as police loudspeakers outside begin to blare urgent, non-negotiable demands.\",\n  \"next_challenge\": \"Professor must immediately devise a plan to free Khokaar from the lockdown and deal with the now highly aggressive police, or risk losing a team member and the entire heist.\",\n  \"vault_layer\": \"biometric\",\n  \"team_morale\": \"low\",\n  \"police_activity\": \"aggressive\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 347,
+    "candidatesTokenCount": 145,
+    "totalTokenCount": 1667,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 347
+      }
+    ],
+    "thoughtsTokenCount": 1175,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "LKINasjQF4TensEP7rXMKQ"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"Kardar's fingers dance over the vault's intricate wiring, disabling the first layer with precision. A faint spark briefly illuminates the chamber, unnoticed by the police, as the security system hums down. The team shares a quick, satisfied nod.\",\n  \"vault_delta\": 20,\n  \"police_alert_delta\": 0,\n  \"team_caught\": null,\n  \"team_action\": \"Kardar successfully bypassed the vault's initial electrical wiring system, making significant progress on the first security layer.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 607,
+    "candidatesTokenCount": 124,
+    "totalTokenCount": 1605,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 607
+      }
+    ],
+    "thoughtsTokenCount": 874,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Fx4OavKDJKyM28oPqqXl4AQ"
+}

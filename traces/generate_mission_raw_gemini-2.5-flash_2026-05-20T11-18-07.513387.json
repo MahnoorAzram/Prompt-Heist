@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION CRIMSON ECHO\",\n  \"target\": \"The Obsidian Depository, a fortress rumored to hold the forgotten legacies of ancient Guilds, stands at the heart of the desolate Spirelands.\",\n  \"location_flavor\": \"Dusk descends rapidly over the sprawling industrial district, casting long shadows as a rare atmospheric storm brews, offering a tight three-hour window.\",\n  \"antagonist_move\": \"Inspector Vega has deployed new, experimental sonic sensors around the city's high-value targets, making silent entry significantly more challenging.\",\n  \"briefing_text\": \"The whispers of the Obsidian Depository's treasures have reached us, tales of artifacts that could reshape the balance of power in the Underworld. This isn't just about wealth; it's about gaining an edge against the shadows that threaten to engulf us all. Fail, and the Depository's secrets remain sealed, forever out of reach. Succeed, and the first true step towards our liberation is taken.\",\n  \"mission_hook\": \"The vault can only be opened by synchronizing three ancient clockwork mechanisms scattered across the target's forgotten archives.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 216,
+    "candidatesTokenCount": 246,
+    "totalTokenCount": 1566,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 216
+      }
+    ],
+    "thoughtsTokenCount": 1104,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "6pgNatLUPJG_xN8Pm7iF0Ak"
+}

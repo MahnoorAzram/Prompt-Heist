@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION OBSIDIAN ECHO\",\n  \"target\": \"The Chronos Depository, a secure facility renowned for safeguarding the city's most sensitive historical artifacts and private digital archives.\",\n  \"location_flavor\": \"Under a moonless sky, a thick, rolling fog has descended upon the industrial district, offering a narrow, two-hour window for entry and egress before the morning patrols begin.\",\n  \"antagonist_move\": \"Inspector Vega has just been assigned to the district and is expected to tour key security installations, potentially including our target, within the next 24 hours.\",\n  \"briefing_text\": \"The city slumbers, but opportunity never rests. Your reputation as a meticulous architect of impossible scenarios precedes you, and now it's time to prove its worth. The Chronos Depository holds not just artifacts, but the digital keys to the future of several prominent families, a treasure beyond mere gold. Fail, and not only will the Syndicate's trust in your planning evaporate, but Vega will have her first trophy, sending a chilling message to anyone who dares to challenge the established order.\",\n  \"mission_hook\": \"The vault's primary access is through an antiquated pneumatic tube system, designed for large data canisters, which can be re-purposed for discrete infiltration if precisely calculated.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 282,
+    "totalTokenCount": 1078,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 579,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "8JMNap3aAfiMxN8Ph5zjgAw"
+}

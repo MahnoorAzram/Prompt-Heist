@@ -1,0 +1,13 @@
+{
+  "clarity": 5,
+  "specificity": 0,
+  "feasibility": 25,
+  "creativity": 5,
+  "total": 35,
+  "grade": "FAILURE",
+  "feedback": "The orders use incorrect agent names, which will cause severe confusion and delay, risking team members.",
+  "team_action": "The team is thrown into disarray and delays by the use of incorrect agent names, leading to initial inaction and confusion. Eventually, KHOKAAR attempts to disable cameras, PINKY begins the biometric scan slowly, and KARDAR vaguely blocks a stairwell, all while KHATTAK SAHAB struggles to maintain hostage calm.",
+  "team_caught": null,
+  "vault_delta": 3,
+  "police_alert_delta": 2
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 25,\n  \"specificity\": 15,\n  \"feasibility\": 25,\n  \"creativity\": 5,\n  \"total\": 70,\n  \"grade\": \"SUCCESS\",\n  \"feedback\": \"The orders are clear and feasible but lack any creative tactical thinking to surprise the police.\",\n  \"team_action\": \"Khokaar quickly disables surveillance on Floor 2 while Pinky begins the biometric scan on the vault, hoping for a swift bypass. Kardar strategically blocks a key stairwell as Khattak maintains control, keeping the ground floor hostages calm amidst rising tension.\",\n  \"team_caught\": null,\n  \"vault_delta\": 10,\n  \"police_alert_delta\": 0\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 662,
+    "candidatesTokenCount": 172,
+    "totalTokenCount": 2068,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 662
+      }
+    ],
+    "thoughtsTokenCount": 1234,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Yo4OauaUGbCAxs0PqPnogA8"
+}

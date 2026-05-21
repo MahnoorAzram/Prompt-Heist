@@ -1,0 +1,9 @@
+{
+  "title": "JAMMER CRITICAL FAILURE!",
+  "description": "KHOKAAR's specialized signal jammer, vital for bypassing the laser grid protecting the vault entrance, has suddenly powered down. The display shows a critical system error, leaving the laser grid fully active and blocking your path, with two guards still patrolling nearby.",
+  "affected_member": "KHOKAAR",
+  "seconds": 45,
+  "severity": "medium",
+  "hint": "how to diagnose or manually override the jammer, or an immediate alternative method to bypass the active laser grid, considering the nearby guards.",
+  "fail_consequence": "The laser grid will trip, immediately alerting the two nearby guards and triggering a direct, unavoidable confrontation."
+}

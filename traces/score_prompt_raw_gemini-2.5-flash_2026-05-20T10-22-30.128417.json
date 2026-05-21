@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 0,\n  \"specificity\": 0,\n  \"feasibility\": 0,\n  \"creativity\": 5,\n  \"total\": 5,\n  \"grade\": \"CRITICAL\",\n  \"feedback\": \"The primary failure lies in using incorrect agent names, rendering all orders incomprehensible and unexecutable for the actual team members.\",\n  \"team_action\": \"The team stands confused and motionless, each agent waiting for a callsign that never arrives. The critical initial moments of the heist tick by, leaving the objectives untouched and the police outside gaining confidence.\",\n  \"team_caught\": \"khattak_sahab\",\n  \"vault_delta\": 0,\n  \"police_alert_delta\": 2\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 656,
+    "candidatesTokenCount": 168,
+    "totalTokenCount": 2975,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 656
+      }
+    ],
+    "thoughtsTokenCount": 2151,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "3IsNav2aL7S6xN8P2o-ksQs"
+}

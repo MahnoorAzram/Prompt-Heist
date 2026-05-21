@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION GHOSTLY SILENCE\",\n  \"target\": \"Our primary objective is the legendary Aurum Archive, a fortress of rare artifacts and forgotten histories, rumored to hold secrets worth more than any mere coin.\",\n  \"location_flavor\": \"This heist takes place under the cloak of a perpetually moonless night, a brief window opening just before dawn when the city's automated patrols cycle their power.\",\n  \"antagonist_move\": \"Inspector Vega has just deployed new experimental sensor grids around all major financial hubs, making her presence felt even before she arrives on scene.\",\n  \"briefing_text\": \"The city sleeps, but its treasures do not. This is your chance to make a name, to carve out a legend from the shadows. The Aurum Archive is more than just a vault; it's a statement, and cracking it will announce your arrival to every major player in this clandestine world. The challenge is immense, the reward immeasurable, but a single misstep could lead to eternal obscurity.\",\n  \"mission_hook\": \"The Archive's internal security system uses a neural network that adapts to observed patterns, meaning the same approach won't work twice.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 255,
+    "totalTokenCount": 892,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 420,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "kZkNau7jJJrvvdIP7IfW4Qk"
+}

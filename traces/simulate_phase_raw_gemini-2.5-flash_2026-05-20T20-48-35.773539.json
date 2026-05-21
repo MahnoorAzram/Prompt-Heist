@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"Khattak Sahab, with focused intensity, masterfully inputs the complex code sequence into the vault's first security panel, causing a triumphant green light to flash across the display. The heavy outer door hisses open, revealing the next formidable barrier as Kardar and Pinky maintain vigilant watch on their surroundings.\",\n  \"vault_delta\": 18,\n  \"police_alert_delta\": -1,\n  \"team_caught\": null,\n  \"team_action\": \"The crew successfully disabled the first security layer of the vault.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 607,
+    "candidatesTokenCount": 126,
+    "totalTokenCount": 2008,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 607
+      }
+    ],
+    "thoughtsTokenCount": 1275,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "oB4OarLCIPXcxs0P9aSw8AQ"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION SHADOW ASCENT\",\n  \"target\": \"The Obsidian Treasury, an ancient institution now housing the Priceless Gem of Xylos, rumored to be the 'Serpent's Eye'.\",\n  \"location_flavor\": \"The moon hangs full and high over the desolate Winding Spires, casting long shadows that will aid your approach under the cover of perpetual mist.\",\n  \"antagonist_move\": \"Inspector Vega is personally overseeing a new patrol route, known for his unpredictable movements and uncanny intuition.\",\n  \"briefing_text\": \"Word on the wire speaks of the 'Serpent's Eye,' a relic rumored to grant impossible visions, now locked deep within the Obsidian Treasury. We need it. Not just for its power, but to keep it from the Syndicate, who believe it will reveal the location of the legendary 'Nexus.' The stakes are not just gold, but the very fabric of reality as we know it. Get in, get the Eye, and get out before Vega's new patrols corner you.\",\n  \"mission_hook\": \"The relic reacts to direct light, causing unpredictable effects on electronics and human perception within its immediate vicinity.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 216,
+    "candidatesTokenCount": 253,
+    "totalTokenCount": 1696,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 216
+      }
+    ],
+    "thoughtsTokenCount": 1227,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "-pgNavjKJu3BxN8PvpvPyQk"
+}

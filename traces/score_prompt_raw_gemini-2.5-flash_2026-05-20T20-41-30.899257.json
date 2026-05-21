@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 5,\n  \"specificity\": 5,\n  \"feasibility\": 15,\n  \"creativity\": 5,\n  \"total\": 30,\n  \"grade\": \"FAILURE\",\n  \"feedback\": \"The primary weakness is the use of incorrect agent names, which prevents the team from understanding their assigned roles.\",\n  \"team_action\": \"The agents look at each other, confused by the unfamiliar names \\\"Tokyo\\\" and \\\"Berlin\\\", unsure who is meant to secure what perimeter or start drilling the vault. Precious time ticks away as they wait for clearer instructions.\",\n  \"team_caught\": null,\n  \"vault_delta\": 0,\n  \"police_alert_delta\": 0\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 645,
+    "candidatesTokenCount": 165,
+    "totalTokenCount": 1759,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 645
+      }
+    ],
+    "thoughtsTokenCount": 949,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "-RwOaqDdA42_vdIP74u8yAc"
+}

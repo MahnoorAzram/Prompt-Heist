@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"As Khokaar attempts to jam the main entrance's security panel, a hidden alarm blares through the bank, shaking the entire building. Before anyone can react, a quick response unit, already staging nearby, breaches the entrance, catching Khokaar by surprise.\",\n  \"vault_delta\": 2,\n  \"police_alert_delta\": 2,\n  \"team_caught\": \"Khokaar\",\n  \"team_action\": \"The crew's initial attempt to neutralize the entrance security goes horribly wrong, triggering a full bank alarm.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 604,
+    "candidatesTokenCount": 128,
+    "totalTokenCount": 1127,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 604
+      }
+    ],
+    "thoughtsTokenCount": 395,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "hI4OavihDpDbxs0Pv9mTiQU"
+}

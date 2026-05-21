@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION SHADOW GAMBIT\",\n  \"target\": \"Our target is the heavily fortified Chronos Vault, owned by the secretive Aethel Corporation.\",\n  \"location_flavor\": \"The heist takes place during a late-night torrential downpour, offering a narrow two-hour window before the morning shift change.\",\n  \"antagonist_move\": \"Inspector Vega has just introduced a new AI-driven surveillance system across the city, making our movements significantly riskier.\",\n  \"briefing_text\": \"This is your initiation, Planner. The Aethel Corporation's Chronos Vault holds more than just gold; it's rumored to contain ancient schematics that could shift the balance of power in the Underworld. Failure isn't an option; succeed, and you earn your place among the elite. Fail, and you'll be just another ghost swallowed by the city's shadows.\",\n  \"mission_hook\": \"The vault's security system is entirely analog, meaning no digital footprints but requiring precise mechanical bypasses.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 226,
+    "totalTokenCount": 1006,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 563,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "RJ0Nao7XB8zxxN8P6IfTwAs"
+}

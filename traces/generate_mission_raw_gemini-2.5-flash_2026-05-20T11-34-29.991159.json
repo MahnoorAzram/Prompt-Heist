@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION GILDED VEIL\",\n  \"target\": \"Our objective is the legendary Aurum Repository, a private data vault rumored to hold the digital blueprints of the world's most innovative technologies.\",\n  \"location_flavor\": \"Tonight, under a moonless sky and a rare, silent fog, the repository's access gates will be offline for a critical power grid upgrade for precisely twenty minutes.\",\n  \"antagonist_move\": \"Inspector Vega is currently preoccupied with a high-profile art forgery case across the city, momentarily drawing her attention away from our operations.\",\n  \"briefing_text\": \"The clock starts now. This isn't just about credits; it's about control over the future's very foundations. The Aurum Repository guards secrets that could reshape empires, and we need them. Your meticulous planning will be the key to navigating its labyrinthine defenses, ensuring we seize this opportunity before it vanishes into the mists of history. Failure is not an option when the stakes are this high, Planner.\",\n  \"mission_hook\": \"The target vault has a unique 'temporal lock' system, where data retrieval speed directly impacts the physical stability of the vault itself.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 257,
+    "totalTokenCount": 908,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 434,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "xZwNapT-OKWAkdUPp5zN8As"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"clarity\": 5,\n  \"specificity\": 5,\n  \"feasibility\": 0,\n  \"creativity\": 5,\n  \"total\": 15,\n  \"grade\": \"CRITICAL\",\n  \"feedback\": \"The critical flaw is the use of incorrect agent names, rendering the orders incomprehensible to your actual team.\",\n  \"team_action\": \"Receiving orders addressed to unfamiliar names like 'Rio' and 'Nairobi,' the actual team members stand confused and inactive. With critical time slipping away, the police outside tighten their perimeter, their presence growing more imposing.\",\n  \"team_caught\": \"rio\",\n  \"vault_delta\": 0,\n  \"police_alert_delta\": 2\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 656,
+    "candidatesTokenCount": 166,
+    "totalTokenCount": 3081,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 656
+      }
+    ],
+    "thoughtsTokenCount": 2259,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "m4sNatH6F4WxnsEPt7XjoQ0"
+}

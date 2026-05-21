@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"Kardar's fingers fly across the keypad, a green light flashing as the vault's outer door hisses open. The team exchanges relieved glances, but the glint of a laser grid beyond signals the next hurdle. They are now inside the vault antechamber.\",\n  \"vault_delta\": 12,\n  \"police_alert_delta\": 0,\n  \"team_caught\": null,\n  \"team_action\": \"Kardar expertly bypasses the vault's initial code lock with precise keystrokes.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 605,
+    "candidatesTokenCount": 124,
+    "totalTokenCount": 1083,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 605
+      }
+    ],
+    "thoughtsTokenCount": 354,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "b44Oap-ICdGwxN8PpZn06Q8"
+}

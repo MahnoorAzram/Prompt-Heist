@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"Kardar fumbles with the wiring, accidentally tripping a silent alarm on the vault door. A piercing siren briefly echoes before being muffled by the reinforced walls, but the damage is done. Panic starts to ripple through the hostages on the ground floor as guards outside scramble.\",\n  \"next_challenge\": \"The team must quickly disable the alarm system and identify which security protocol has been activated before the police pinpoint their exact location.\",\n  \"vault_layer\": \"code\",\n  \"team_morale\": \"low\",\n  \"police_activity\": \"active\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 347,
+    "candidatesTokenCount": 126,
+    "totalTokenCount": 1262,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 347
+      }
+    ],
+    "thoughtsTokenCount": 789,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Ah0OavqYAqn6vdIP97qFqAc"
+}

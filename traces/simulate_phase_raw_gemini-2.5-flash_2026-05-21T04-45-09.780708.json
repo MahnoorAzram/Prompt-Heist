@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"situation_update\": \"As Khokaar attempts to jam the vault's main door, a hidden laser grid activates, trapping him mid-motion. Sirens blare on the police radios outside, signifying a major breach in their initial stealth attempt. The team freezes, watching their comrade caught in the pulsating red light.\",\n  \"vault_delta\": 2,\n  \"police_alert_delta\": 2,\n  \"team_caught\": \"Khokaar\",\n  \"team_action\": \"Khokaar attempted to jam the vault's main door, but triggered a hidden laser grid, getting himself caught.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 605,
+    "candidatesTokenCount": 137,
+    "totalTokenCount": 974,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 605
+      }
+    ],
+    "thoughtsTokenCount": 232,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "WI4Oao-2A7Prxs0P0Yr6-AU"
+}

@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"mission_codename\": \"OPERATION MIDNIGHT ECHO\",\n  \"target\": \"Our objective is the formidable Chronos Repository, a subterranean data vault rumored to house the digital fortunes of the world's most reclusive billionaires.\",\n  \"location_flavor\": \"The operation unfolds beneath the cloak of a manufactured storm, providing a critical two-hour access window through the institution's seldom-used subterranean service conduits before the weather clears and security protocols reset.\",\n  \"antagonist_move\": \"Inspector Vega, ever vigilant, has recently deployed a new network of sound-sensitive automated sentinels around the district, making any loud approach suicidal.\",\n  \"briefing_text\": \"This isn't just about data; it's about shifting the balance of power. The Chronos Repository holds secrets that could unravel empires, the kind of leverage that changes the game entirely. Failure isn't an option; the continued silence of those vaults means their influence remains unchallenged, and ours remains a fleeting whisper in the dark. Plan meticulously, execute flawlessly, and emerge with a prize that redefines our standing.\",\n  \"mission_hook\": \"The vault's core data is encrypted with a temporal lock, meaning it can only be accessed during a specific, fleeting nanosecond alignment in the system's clock cycle, requiring precise timing.\"\n}"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 217,
+    "candidatesTokenCount": 279,
+    "totalTokenCount": 1392,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 217
+      }
+    ],
+    "thoughtsTokenCount": 896,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "QI4OaviXHuX2xN8PpZbpqQY"
+}
