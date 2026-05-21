@@ -37,7 +37,35 @@ Police Counter            Mission Director
     ↓
 Gemini API (All agents use this)
 
-## The 6 AI Agents
+## The 8 AI Agents
+
+### Agent 1 — Prompt Evaluator (score_prompt.py)
+Reads every player prompt and scores it 0-100 on four dimensions:
+- Clarity: does crew know exactly what to do?
+- Specificity: are names, locations, timing defined?
+- Feasibility: is it actually possible?
+- Creativity: is it tactically clever?
+
+### Agent 2 — Master Orchestrator (master_orchestrator.py)
+Brain of the entire game. Coordinates all other agents. Decides whether to trigger crisis, police move, or difficulty adjustment.
+
+### Agent 3 — Crisis Generator (generate_crisis.py)
+Every 3 rounds generates a completely new unexpected emergency.
+
+### Agent 4 — Police Counter Agent (police_counter.py)
+Studies player last 3 moves every 2 rounds. Detects patterns. Adapts and counters specifically.
+
+### Agent 5 — Mission Director (generate_mission.py)
+Generates unique mission briefing at start of each new game.
+
+### Agent 6 — Performance Profiler (profile_player.py)
+Watches entire session. Analyzes all prompts and scores at end.
+
+### Agent 7 — Police Interrogation (police_interrogation.py)
+Evaluates prompt score and returns an interrogation response, gating the heist simulation.
+
+### Agent 8 — Twist Agent (twist_agent.py)
+Generates a narrative twist affecting the next mission based on the heist outcome and score.
 
 ### Agent 1 — Prompt Evaluator (score_prompt.py)
 Reads every player prompt and scores it 0-100 on four dimensions:

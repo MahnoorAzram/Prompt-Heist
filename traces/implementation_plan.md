@@ -98,3 +98,17 @@ Added proper error handling for timeouts.
 All agent traces saved in traces/ folder.
 Each trace shows: observation → inference → decision → action → outcome.
 This proves genuine agentic behavior, not hardcoded rules.
+
+## Day X — New Agents Integration
+
+### Police Interrogation Agent
+- **File:** `execution/police_interrogation.py`
+- **Function:** `run_police_interrogation(score: int) -> dict`
+- **Purpose:** Gates the heist simulation based on prompt quality, providing an interrogation level and hint.
+
+### Twist Agent
+- **File:** `execution/twist_agent.py`
+- **Function:** `run_twist_agent(score: int, heist_outcome: dict) -> str`
+- **Purpose:** Generates a narrative twist affecting the next mission, influenced by the heist outcome and prompt score.
+
+Both agents are invoked in `master_orchestrator.py` after scoring and before final response assembly.
